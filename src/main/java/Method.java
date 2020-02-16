@@ -11,4 +11,7 @@ public class Method {
     public void doSomeStuffNew(){
         System.out.println("1st method");
     }
+    public void doSomeStuffNew2(){
+        System.out.println("1st method");
+    }
 }
